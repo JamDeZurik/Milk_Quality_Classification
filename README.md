@@ -16,3 +16,6 @@ _The biggest discrepency was High being confused with medium quality._
 
 Next, it runs a similar process for SVC. Due to SVC finding a margin between two classes.
 ![image](https://github.com/user-attachments/assets/68fb2474-677b-4139-949a-8e900767787e)
+
+**Random Forest (Test Score / OOB Score): (0.921 / 0.937)
+SVC (Test Score / OOB Score): (0.560 / 0.564)**
